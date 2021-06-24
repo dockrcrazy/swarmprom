@@ -1,4 +1,4 @@
-FROM quay.io/prometheus/node-exporter:1.1.2
+FROM quay.io/prometheus/node-exporter:v1.1.2
 
 ENV NODE_ID=none
 
